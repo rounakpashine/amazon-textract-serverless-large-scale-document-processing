@@ -115,4 +115,4 @@ Similar architecture can be used for other services like Amazon Rekognition to p
 
 ## License
 
-This library is licensed under the Apache 2.0 License. 
+This library is licensed under the Apache 2.0 License.
